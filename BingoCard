@@ -1,0 +1,11 @@
+import java.util.HashSet;
+import java.util.Random;
+import java.util.Set;
+
+public class BingoCard {
+    private int[][] card;
+    private String id;
+    private Set<String> markedPositions;
+
+
+}
