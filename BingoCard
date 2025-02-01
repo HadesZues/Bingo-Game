@@ -7,5 +7,4 @@ public class BingoCard {
     private String id;
     private Set<String> markedPositions;
 
-
 }
